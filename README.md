@@ -17,7 +17,6 @@ _Collaborate and work together on GitHub._
   The start <details> should have `open` as well.
   Do not use quotes on the <details> tag attributes.
 -->
-
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 
